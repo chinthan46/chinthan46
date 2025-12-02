@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, I'm Chinthan 👋
 🔭 I’m currently working on<br><br>Learning and building hands-on DevOps projects (CI/CD pipelines, Docker, Kubernetes, AWS).<br><br>Improving my understanding of serverless architecture and cloud deployment.<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly DevOps and cloud projects.<br><br>Open-source projects that involve automation, containerization, or cloud infrastructure.<br><br>🤝 I’m looking for help with<br><br>Building real-world DevOps project experience to strengthen my resume.<br><br>Guidance on best practices for Kubernetes, Terraform, and CI/CD pipelines.<br><br>🌱 I’m currently learning<br><br>Docker, Kubernetes, Jenkins, and AWS services (EC2, S3, Lambda, CloudWatch).<br><br>Infrastructure as Code and monitoring tools.<br><br>💬 Ask me about<br><br>Getting started with DevOps as a beginner.<br><br>Automation, cloud basics, containers, and deployment strategies.<br><br>⚡ Fun fact<br><br>I can troubleshoot tech issues for hours—but still struggle to decide what to eat for dinner!
 
 
